@@ -1,16 +1,19 @@
 # Mini-Project for Fundamentals of Machine Learning Course
+
 ![background](./materials/ai_wp.jpg)
+
 This repository contains the code and data for a mini-project on facial expression recognition using machine learning algorithms.
+
+This is a mini-project for the Fundamentals of Machine Learning course at the VNU-HCM University of Science. The project is designed to practice the machine learning concepts we've learned in the course, including data preprocessing, exploratory data analysis (EDA), and classification tasks.
 
 ## 📑 Project Policy
 - Team: group should consist of 3-4 students.
 
     |No.| Student Name    | Student ID |
     | --------| -------- | ------- |
-    |1|||
-    |2|||
-    |3|||
-    |4|||
+    |1| Dinh Minh Chinh | 21280007 |
+    |2| Pham Nhat Hao | 21280066 |
+    |3| Le Tran Bao Ngoc | 21280036 |
 
 - The submission deadline is strict: **11:59 PM** on **June 22nd, 2024**. Commits pushed after this deadline will not be considered.
 
