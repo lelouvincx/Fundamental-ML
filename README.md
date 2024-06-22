@@ -45,3 +45,35 @@ This project is designed to be completed in the following steps:
 
 
 Feel free to modify and extend the notebook to explore further aspects of the data and experiment with different algorithms. Good luck.
+
+## Answer
+
+The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image. The task is to categorize each face based on the emotion shown in the facial expression in to one of seven categories:
+
+0. Angry
+Example:
+![](./images/example_angry.png)
+
+1. Disgust
+Example:
+![](./images/example_disgust.png)
+
+2. Fear
+Example:
+![](./images/example_fear.png)
+
+3. Happy
+Example:
+![](./images/example_happy.png)
+
+4. Sad
+Example:
+![](./images/example_sad.png)
+
+5. Surprise
+Example:
+![](./images/example_surprise.png)
+
+6. Neutral
+Example:
+![](./images/example_neutral.png)
